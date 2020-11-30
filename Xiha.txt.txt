@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 Xin chao cac ban
 Minh la Xi
+DC: Dung Si Thanh Khe
 
 =======
 >>>>>>> parent of 7725ccb (Update file)
