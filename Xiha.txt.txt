@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Xin chao cac ban
 Minh la Xi
 
+=======
+>>>>>>> parent of 7725ccb (Update file)
