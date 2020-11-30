@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 Xin chao cac ban
+<<<<<<< HEAD
 Minh la Xi
 DC: Dung Si Thanh Khe
 
 =======
 >>>>>>> parent of 7725ccb (Update file)
+=======
+>>>>>>> parent of 19552aa (Update Xiha.txt)
